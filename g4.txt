@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is g4.
+=======
+this is g4,modified.new file.
+>>>>>>> firstbranch
